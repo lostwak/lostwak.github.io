@@ -6,6 +6,10 @@ import logo from '../images/title.png'
 const Header = () => {
   const [headerStyle, setHeaderStyle] = React.useState("header");
 
+  React.useEffect(() => {
+      document.addEventListener('scroll', scrollListen)
+  })
+
   function scrollListen (w) {
     if (window.scrollY === 0) {
       setHeaderStyle("header");

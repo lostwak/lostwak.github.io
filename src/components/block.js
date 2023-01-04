@@ -102,7 +102,7 @@ export const ContentsBlock = ({}) => {
       {
         contentsList.map(e => {
           return (
-            <div className="col-md-4" key={e.name}>
+            <div className="col-md-4 col-sm-6" key={e.name}>
               <img className="contents-img" src={e.src} />
               <p className="contents-name">{e.name}</p>
             </div>

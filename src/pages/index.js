@@ -139,7 +139,7 @@ const IndexPage = () => {
               /> */}
               <ContentsBlock></ContentsBlock>
             </div>
-            <div className="col-md-6 block-desc">
+            <div className="col-md-6 block-desc" style={{marginTop: `5rem`}}>
               <h3>기록관</h3>
               <ul className="list-group">
                 { 
@@ -150,7 +150,7 @@ const IndexPage = () => {
                   })
                 }
               </ul>
-              <p className="updated-txt">업데이트 날짜 : 2023-1-4 18:00</p>
+              <p className="updated-txt">업데이트 날짜 : 2023-01-04 18:00</p>
             </div>
           </SecondaryBlock>
         </div>
@@ -159,7 +159,7 @@ const IndexPage = () => {
       <div className="gradient-container">
         <div className="container">
           <Block>
-            <div className="col-md-6 block-desc">
+            <div className="col-lg-6 block-desc">
               {/* 직업 3개 밖에 안되니까 그냥 노가다 */}
               <h3 className="job-name">{ jobList[jobIdx].job }</h3>
               <div className="job-desc">
@@ -176,7 +176,7 @@ const IndexPage = () => {
                 <img src={helaer}/>
               </button>
             </div>
-            <div className="col-md-6">
+            <div className="col-lg-6 hide-md">
               <img
                 className="img-segu"
                 alt="비챤"
