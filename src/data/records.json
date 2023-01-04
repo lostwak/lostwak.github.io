@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "63b18faafec30bc4d965b40b"
+  },
+  "raid": 0,
+  "users": "우왁굳, 천일염, 피카온, 주닝요1",
+  "clearTime": 238.701,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672581034548"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b197f8fec30bc4d965b86a"
+  },
+  "raid": 1,
+  "users": "우왁굳, 천일염, 피카온, 주닝요1",
+  "clearTime": 191.9289,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672583160929"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b1a3f3fec30bc4d965b91f"
+  },
+  "raid": 2,
+  "users": "우왁굳, 주닝요1, 천일염, 피카온",
+  "clearTime": 215.8962,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672586227649"
+    }
+  }
+}]
