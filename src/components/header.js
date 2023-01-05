@@ -60,6 +60,12 @@ const Header = () => {
       </Link>
 
       <Link
+        to="/record"
+        className="menu">
+        기록관
+      </Link>
+
+      <Link
         to="/credit"
         className="menu">
         개발진

@@ -454,6 +454,41 @@ footer .footer-img {
   white-space: pre-line;
 }
 
+.record-h2 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.record-list {
+  background: #d8d1c8;
+  text-align: left;
+  color: #624e4e;
+}
+.record-list .record-names {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.record-list p {
+  margin-bottom: 0px;
+}
+.bt-raid {
+  border: none;
+  background: none;
+  font-size: 1.25rem;
+  margin: 1rem;
+}
+.bt-raid.selected {
+  font-weight: bold;
+  color: #967852;
+}
+.raid-list-group {
+  margin-top: 1rem;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
 ::-moz-selection {
   background: #be5b7e !important;
 }

@@ -1,5 +1,1019 @@
 [{
   "_id": {
+    "$oid": "63b6c474c1afe61025ddc813"
+  },
+  "raid": 0,
+  "users": "서버야, IBOX, 만능팬치, 데에런",
+  "clearTime": 303.571,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672922228496"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6c923c1afe61025ddde24"
+  },
+  "raid": 0,
+  "users": "리카, 주존사, 천양하쿠, 단이비",
+  "clearTime": 169.2722,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672923427572"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6ca0cc1afe61025dde2fc"
+  },
+  "raid": 0,
+  "users": "구설, 잉근, Suho, 커버밀라",
+  "clearTime": 241.9965,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672923660560"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cab0c1afe61025dde5df"
+  },
+  "raid": 0,
+  "users": "민, 1, YJ, 백춘득",
+  "clearTime": 155.4267,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672923824523"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cbedc1afe61025ddec2e"
+  },
+  "raid": 1,
+  "users": "서버야, IBOX, 만능팬치, 데에런",
+  "clearTime": 190.2103,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672924141208"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cd59c1afe61025ddf1f5"
+  },
+  "raid": 1,
+  "users": "민, 1, YJ, 백춘득",
+  "clearTime": 129.5756,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672924505232"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cd8bc1afe61025ddf34f"
+  },
+  "raid": 1,
+  "users": "주존사, 헬창버거, 리카, 커버밀라",
+  "clearTime": 175.1065,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672924555051"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cf20c1afe61025ddfadb"
+  },
+  "raid": 2,
+  "users": "서버야, IBOX, 만능팬치, 데에런",
+  "clearTime": 187.2977,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672924960332"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6cfe5c1afe61025ddfe5e"
+  },
+  "raid": 0,
+  "users": "웅자, 시베리언, 비바챤보, 별나무",
+  "clearTime": 230.1901,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672925157944"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6d116c1afe61025de03fa"
+  },
+  "raid": 2,
+  "users": "주존사, 헬창버거, 리카, 커버밀라",
+  "clearTime": 189.7162,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672925462759"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6d1f5c1afe61025de0815"
+  },
+  "raid": 2,
+  "users": "민, 1234, YJ, 백춘득",
+  "clearTime": 165.6866,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672925685367"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6d76dc1afe61025de2451"
+  },
+  "raid": 1,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 186.393,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672927085702"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6d842c1afe61025de27fd"
+  },
+  "raid": 0,
+  "users": "릴리아스, 싸이렘, 스탑, 필통",
+  "clearTime": 195.1717,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672927298243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6da5cc1afe61025de3173"
+  },
+  "raid": 1,
+  "users": "별나무, 백춘득, 헬창버거, 똥강아지",
+  "clearTime": 210.6795,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672927836319"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6dbe9c1afe61025de3871"
+  },
+  "raid": 2,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 157.8375,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672928233413"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6dc3bc1afe61025de3a17"
+  },
+  "raid": 1,
+  "users": "릴리아스, 싸이렘, 스탑, 필통",
+  "clearTime": 296.2998,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672928315808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6deb8c1afe61025de4479"
+  },
+  "raid": 0,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 143.2971,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672928952587"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6df72c1afe61025de4792"
+  },
+  "raid": 0,
+  "users": "이츠와리, 백수한량, 나랑놀아, ankh",
+  "clearTime": 249.2386,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929138035"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6dfacc1afe61025de48ac"
+  },
+  "raid": 1,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 122.6102,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929196065"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e0f8c1afe61025de4dee"
+  },
+  "raid": 2,
+  "users": "릴리아스, 싸이렘, 스탑, 필통",
+  "clearTime": 205.3298,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929528576"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e114c1afe61025de4ec3"
+  },
+  "raid": 0,
+  "users": "별나무, 마틴포드, 2파리, 카르카젠",
+  "clearTime": 303.0116,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929556959"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e139c1afe61025de4fcf"
+  },
+  "raid": 2,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 139.5074,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929593912"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e2bcc1afe61025de593a"
+  },
+  "raid": 2,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 124.5237,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672929980312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e38dc1afe61025de5da5"
+  },
+  "raid": 2,
+  "users": "웅자, 비바챤보, 시베리언, 시체00",
+  "clearTime": 138.1736,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672930189998"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e47fc1afe61025de63ac"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 배려심, 똥강아지",
+  "clearTime": 289.082,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672930431357"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6e5a8c1afe61025de697d"
+  },
+  "raid": 0,
+  "users": "주냔, 개미천, 아오우잉, 백수한량",
+  "clearTime": 217.4364,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672930728661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6ea9ec1afe61025de8855"
+  },
+  "raid": 1,
+  "users": "배려심, 비바챤보, 필통, 개미천",
+  "clearTime": 124.6209,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672931998793"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6ed39c1afe61025de964f"
+  },
+  "raid": 2,
+  "users": "배려심, 비바챤보, 필통, 개미천",
+  "clearTime": 127.7418,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672932665181"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f10fc1afe61025deaaad"
+  },
+  "raid": 0,
+  "users": "복실, 고라니, 마음, 테디곰",
+  "clearTime": 174.1133,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672933647975"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f378c1afe61025deb618"
+  },
+  "raid": 0,
+  "users": "똥강아지, 냥먕양, 알잘딱스, Joe",
+  "clearTime": 264.0919,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672934264457"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f3c8c1afe61025deb79f"
+  },
+  "raid": 1,
+  "users": "복실, 고라니, 마음, 테디곰",
+  "clearTime": 160.7081,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672934344040"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f83cc1afe61025decd11"
+  },
+  "raid": 0,
+  "users": "띵땅똥, 모나모나, 알잘딱스, 진성",
+  "clearTime": 190.2374,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672935484722"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f9fdc1afe61025ded2cd"
+  },
+  "raid": 2,
+  "users": "복실, 마음, 고라니, 테디곰",
+  "clearTime": 137.186,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672935933977"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6fa8fc1afe61025ded4fb"
+  },
+  "raid": 1,
+  "users": "띵땅똥, 모나모나, 알잘딱스, 진성",
+  "clearTime": 230.3255,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672936079774"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6fb05c1afe61025ded739"
+  },
+  "raid": 0,
+  "users": "영민, 씹세구, KinA, 않이수현",
+  "clearTime": 206.0928,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672936197573"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6fcffc1afe61025dedd53"
+  },
+  "raid": 1,
+  "users": "영민, 씹세구, KinA, 않이수현",
+  "clearTime": 246.9379,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672936703743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6fee2c1afe61025dee4b9"
+  },
+  "raid": 0,
+  "users": "고세구, 징버거, 블랙, 잠만자는",
+  "clearTime": 265.6252,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672937186745"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b700e8c1afe61025deed1b"
+  },
+  "raid": 1,
+  "users": "비영비영, 큐디챤, 커버밀라, 아침8시",
+  "clearTime": 146.8238,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672937704141"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70130c1afe61025deee4d"
+  },
+  "raid": 2,
+  "users": "영민, 씹세구, KinA, 않이수현",
+  "clearTime": 138.6294,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672937776861"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7053bc1afe61025defce4"
+  },
+  "raid": 0,
+  "users": "주스임, 낚시미끼, 테디곰, 냥먕양",
+  "clearTime": 218.1264,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672938811177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70579c1afe61025defdbe"
+  },
+  "raid": 1,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 115.9765,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672938873813"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7060cc1afe61025df00ac"
+  },
+  "raid": 2,
+  "users": "진성, 모나모나, 알잘딱스, 띵땅똥",
+  "clearTime": 182.4537,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672939020596"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b707dac1afe61025df0921"
+  },
+  "raid": 2,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 108.925,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672939482739"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b708b1c1afe61025df0e2b"
+  },
+  "raid": 1,
+  "users": "주스임, 낚시미끼, 테디곰, 냥먕양",
+  "clearTime": 188.1985,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672939697913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b709ffc1afe61025df1644"
+  },
+  "raid": 0,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 176.4575,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672940031697"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70c79c1afe61025df1f3d"
+  },
+  "raid": 2,
+  "users": "아침8시, 비영비영, 큐디챤, KinA",
+  "clearTime": 182.8996,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672940665035"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70d83c1afe61025df2262"
+  },
+  "raid": 0,
+  "users": "인터, 징어, 아드, 비바챤보",
+  "clearTime": 142.4974,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672940931305"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70e0bc1afe61025df245c"
+  },
+  "raid": 0,
+  "users": "우림림, 알잘딱스, 상상덜덜, 바카염",
+  "clearTime": 256.4311,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941067323"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70e5ac1afe61025df269d"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, KinA",
+  "clearTime": 159.9588,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941146520"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70ec5c1afe61025df286a"
+  },
+  "raid": 0,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 145.5621,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941253953"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b70f87c1afe61025df2ab9"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, KinA",
+  "clearTime": 129.3811,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941447741"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7103fc1afe61025df2d90"
+  },
+  "raid": 0,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 147.1407,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941631775"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71076c1afe61025df2f46"
+  },
+  "raid": 0,
+  "users": "금천고짱, 모나모나, 비바챤보, 민초마요",
+  "clearTime": 163.6074,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941686816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b710b4c1afe61025df30c0"
+  },
+  "raid": 1,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 143.6839,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941748855"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71105c1afe61025df31f7"
+  },
+  "raid": 2,
+  "users": "주스임, 낚시미끼, 테디곰, 냥먕양",
+  "clearTime": 248.652,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941829103"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71107c1afe61025df322a"
+  },
+  "raid": 0,
+  "users": "영민, 씹세구, 잠만자는, 왁이랑",
+  "clearTime": 108.9692,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941831799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71115c1afe61025df324d"
+  },
+  "raid": 0,
+  "users": "바아악쥐, 참쌀, 샴푸, 징어",
+  "clearTime": 224.5642,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941845466"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71161c1afe61025df367d"
+  },
+  "raid": 1,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 103.6306,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672941921945"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b712c6c1afe61025df3e72"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 118.6936,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942278163"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b713d7c1afe61025df4396"
+  },
+  "raid": 1,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 89.38541,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942551751"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7144dc1afe61025df4615"
+  },
+  "raid": -1,
+  "users": "고세구, 징버거, 전기, 운명화",
+  "clearTime": 184.5592,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942669210"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71473c1afe61025df466f"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 116.9442,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942707276"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b714efc1afe61025df49f0"
+  },
+  "raid": 1,
+  "users": "고세구, 징버거, 전기, 운명화",
+  "clearTime": 142.2995,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942831921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7157fc1afe61025df4e60"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 106.9955,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672942975415"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7166bc1afe61025df5294"
+  },
+  "raid": 0,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 102.9493,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943211826"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71712c1afe61025df54c6"
+  },
+  "raid": 0,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 93.09421,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943378666"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71723c1afe61025df5606"
+  },
+  "raid": 1,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 77.84915,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943395605"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b717b3c1afe61025df57c8"
+  },
+  "raid": 1,
+  "users": "상상덜덜, 우림림, 징어, 바카염",
+  "clearTime": 140.087,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943539401"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b717c2c1afe61025df57f8"
+  },
+  "raid": 1,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 77.24976,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943554485"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7188dc1afe61025df5bd1"
+  },
+  "raid": 1,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 79.1033,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943757860"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71917c1afe61025df5d98"
+  },
+  "raid": 1,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 79.64545,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943895985"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71926c1afe61025df5e9b"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 105.7799,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672943910484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71982c1afe61025df601f"
+  },
+  "raid": 1,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 69.60388,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672944002932"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71a37c1afe61025df61c4"
+  },
+  "raid": 0,
+  "users": "아침8시, 비영비영, 큐디챤, 인터",
+  "clearTime": 99.47601,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672944183590"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71bfdc1afe61025df67fe"
+  },
+  "raid": 2,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 86.0231,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672944637199"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71c9cc1afe61025df6aba"
+  },
+  "raid": 0,
+  "users": "모시깽쓰, 폭도폭도, 중지, 상상덜덜",
+  "clearTime": 203.9345,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672944796161"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71df7c1afe61025df6ee1"
+  },
+  "raid": 0,
+  "users": "씹세구, 영민, 왁이랑, 비바챤보",
+  "clearTime": 86.19394,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672945143743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71ef0c1afe61025df7331"
+  },
+  "raid": 2,
+  "users": "고세구, 징버거, 전기, 운명화",
+  "clearTime": 162.1614,
+  "clearedAt": {
+    "$date": {
+      "$numberLong": "1672945392784"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
     "$oid": "63b18faafec30bc4d965b40b"
   },
   "raid": 0,
@@ -9,7 +1023,8 @@
     "$date": {
       "$numberLong": "1672581034548"
     }
-  }
+  },
+  "__v": 0
 },{
   "_id": {
     "$oid": "63b197f8fec30bc4d965b86a"
@@ -21,7 +1036,8 @@
     "$date": {
       "$numberLong": "1672583160929"
     }
-  }
+  },
+  "__v": 0
 },{
   "_id": {
     "$oid": "63b1a3f3fec30bc4d965b91f"
@@ -33,5 +1049,6 @@
     "$date": {
       "$numberLong": "1672586227649"
     }
-  }
+  },
+  "__v": 0
 }]

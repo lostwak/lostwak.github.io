@@ -57,21 +57,12 @@ const IndexPage = () => {
   ];
   
   const data = useStaticQuery(graphql`
-  query Records($eq: Int = -1) {
-    allRecordsJson(
-      sort: {clearedAt: {_date: {_numberLong: ASC}}}
-      filter: {raid: {gt: $eq}}
-    ) {
+  query Review {
+    allReviesJson {
       edges {
         node {
-          users
-          clearTime
-          clearedAt {
-            _date {
-              _numberLong
-            }
-          }
-          raid
+          post_link
+          post_name
         }
       }
     }
@@ -122,8 +113,8 @@ const IndexPage = () => {
             <p></p>
             <p>서버 운영을 아래와 같이 운영합니다.</p>
             <p>상황에 따라 변경 될 수 있으며 운영하지 않을 수도 있습니다.</p>
-            <p>- 1/5(목) 19:30 ~ 1/6(금) 4:00</p>
-            <p>- 1/6(금) 17:00 ~ 1/7(토) 4:00</p>
+            <p className="">- 1/5(목) 21:00 ~ 1/6(금) 4:00 (완료)</p>
+            <p>- 1/6(금) 14:00 ~ 1/7(토) 4:00</p> 
             <p>- [미정]  1/7(토) 12:00 ~ 1/9(월) 2:00</p>
           </div>
         </YoutubeBlock>
@@ -142,18 +133,19 @@ const IndexPage = () => {
               /> */}
               <ContentsBlock></ContentsBlock>
             </div>
-            <div className="col-md-6 block-desc" style={{marginTop: `5rem`}}>
-              <h3>기록관</h3>
+            <div className="col-md-6 block-desc">
+              <h3>리뷰</h3>
               <ul className="list-group">
                 { 
-                  data.allRecordsJson.edges.map((e, idx) => {
+                  data.allReviesJson.edges.sort(() => 0.5 - Math.random()).slice(0, 5).map((e, idx) => {
                     return (
-                      <li className="list-group-item" key={idx}>{ e.node.users }</li>
+                      <Link to={e.node.post_link}>
+                        <li className="list-group-item" key={idx}>{ e.node.post_name }</li>
+                      </Link>
                     );
                   })
                 }
               </ul>
-              <p className="updated-txt">업데이트 날짜 : 2023-01-04 18:00</p>
             </div>
           </SecondaryBlock>
         </div>
