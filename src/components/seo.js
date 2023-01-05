@@ -8,6 +8,8 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
+import thumb from '../images/thumb.png'
+
 function Seo({ description, title, children }) {
   const { site } = useStaticQuery(
     graphql`
@@ -33,6 +35,11 @@ function Seo({ description, title, children }) {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
+
+      <meta property='og:image' content={thumb}/>
+      <meta property='og:image:width' content='1200' />
+      <meta property='og:image:height' content='627' />
+
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:creator" content={site.siteMetadata?.author || ``} />
       <meta name="twitter:title" content={title} />

@@ -9,8 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Lostwak`,
-    description: `로스트왁`,
+    title: `로스트왁`,
+    description: `MORPG 협동 레이드, 로스트왁`,
     author: `@kyechan99`,
     siteUrl: `https://lostwak.github.io/`,
   },
