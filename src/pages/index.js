@@ -120,8 +120,11 @@ const IndexPage = () => {
           <div className="block-desc">
             <h3>공지사항</h3>
             <p></p>
-            <p>서버 오픈 시간 결정중..</p>
-            <p>(영상 아직 없음)</p>
+            <p>서버 운영을 아래와 같이 운영합니다.</p>
+            <p>상황에 따라 변경 될 수 있으며 운영하지 않을 수도 있습니다.</p>
+            <p>- 1/5(목) 17:00 ~ 1/6(금) 4:00</p>
+            <p>- 1/6(금) 17:00 ~ 1/7(토) 4:00</p>
+            <p>- [미정]  1/7(토) 12:00 ~ 1/9(월) 2:00</p>
           </div>
         </YoutubeBlock>
       </div>
@@ -192,7 +195,7 @@ const IndexPage = () => {
         <div className="container">
           <MiddleBlock>
             <h3 className="start-txt">지금 플레이하기</h3>
-            <button className="start-btn">다운로드</button>
+            <Link to="https://github.com/lostwak/lostwak.github.io/releases/download/v1.0.2/Lostwak-v1.0.2.zip" className="start-btn">다운로드</Link>
           </MiddleBlock>
         </div>
       </div>

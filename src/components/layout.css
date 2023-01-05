@@ -416,6 +416,51 @@ footer .footer-img {
   height: 100px;
 }
 
+.sub-container {
+  padding-top: 8rem;
+  padding-bottom: 12rem;
+}
+.credit-h2 {
+  margin-bottom: 5rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.credit-job {
+  color: #be5c7e;
+  margin-top: 3rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.credit-name {
+  color: #000;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-decoration: underline !important;
+}
+.credit-name.none-link {
+  text-decoration: none !important;
+}
+
+.badge-primary {
+  background-color: #be5b7e !important;
+}
+
+.version-block  {
+  padding-bottom: 2rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  white-space: pre-line;
+}
+
+::-moz-selection {
+  background: #be5b7e !important;
+}
+::selection {
+  background: #be5b7e !important;
+}
+
 @media (max-width: 1200px) {
   .game-bg-wrapper .game-bg-wrapper-content .txt-main-visual {
     font-size: 4rem;
@@ -499,52 +544,14 @@ footer .footer-img {
     height: 200px;
   }
   .contents-name  {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     margin-right: -1rem;
   }
 }
-
-.sub-container {
-  padding-top: 8rem;
-  padding-bottom: 12rem;
-}
-.credit-h2 {
-  margin-bottom: 5rem;
-  font-size: 3rem;
-  font-weight: bold;
-}
-.credit-job {
-  color: #be5c7e;
-  margin-top: 3rem;
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-.credit-name {
-  color: #000;
-  font-weight: bold;
-  font-size: 1.5rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  text-decoration: underline !important;
-}
-.credit-name.none-link {
-  text-decoration: none !important;
-}
-
-.badge-primary {
-  background-color: #be5b7e !important;
-}
-
-.version-block  {
-  padding-bottom: 2rem;
-  margin-bottom: 3rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  white-space: pre-line;
-}
-
-::-moz-selection {
-  background: #be5b7e !important;
-}
-::selection {
-  background: #be5b7e !important;
+@media (max-width: 576px) {
+  .credit-name {
+    font-size: 1.125rem;
+    margin-left: .8rem;
+    margin-right: .8rem;
+  }
 }

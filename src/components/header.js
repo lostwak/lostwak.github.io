@@ -68,7 +68,7 @@ const Header = () => {
 
     <Link
       className="btn-download"
-      to="/"
+      to="https://github.com/lostwak/lostwak.github.io/releases/download/v1.0.2/Lostwak-v1.0.2.zip"
       style={{
         fontSize: `var(--font-sm)`,
         textDecoration: `none`,
