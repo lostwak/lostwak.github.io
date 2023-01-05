@@ -545,7 +545,7 @@ footer .footer-img {
   }
   .contents-name  {
     font-size: 1.25rem;
-    margin-right: -1rem;
+    margin-right: -2rem;
   }
 }
 @media (max-width: 576px) {
@@ -553,5 +553,8 @@ footer .footer-img {
     font-size: 1.125rem;
     margin-left: .8rem;
     margin-right: .8rem;
+  }
+  .youtube-block .block-desc {
+    margin: 0px;
   }
 }
