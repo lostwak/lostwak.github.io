@@ -383,6 +383,7 @@ pre tt:after {
   border: none !important;
   border-radius: .5rem !important;
   background-color: white;
+  color: black;
 }
 
 .start-txt {
@@ -462,7 +463,7 @@ footer .footer-img {
 .record-list {
   background: #d8d1c8;
   text-align: left;
-  color: #624e4e;
+  color: #624e4e !important;
 }
 .record-list .record-names {
   font-weight: bold;
@@ -545,14 +546,14 @@ footer .footer-img {
     margin: 10px !important;
   }
   .logo-menu img {
-    height: 50px;
+    height: 45px;
   }
   .btn-download {
     display: none !important;
   }
   .left-menus .menu {
     font-size: 14px;
-    margin: .2rem 1rem;
+    margin: 0.2rem 0.5rem;
     flex: 0 0 auto;
   }
 
@@ -581,6 +582,9 @@ footer .footer-img {
   .contents-name  {
     font-size: 1.25rem;
     margin-right: -2rem;
+  }
+  .review-block {
+    margin-top: 3rem;
   }
 }
 @media (max-width: 576px) {

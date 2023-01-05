@@ -133,7 +133,7 @@ const IndexPage = () => {
               /> */}
               <ContentsBlock></ContentsBlock>
             </div>
-            <div className="col-md-6 block-desc">
+            <div className="col-md-6 block-desc review-block">
               <h3>리뷰</h3>
               <ul className="list-group">
                 { 
