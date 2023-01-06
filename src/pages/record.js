@@ -70,7 +70,7 @@ const RecordPage = () => {
               })
             }
           </ul>
-          <p className="updated-txt">업데이트 날짜 : 2023-01-06 12:00</p>
+          <p className="updated-txt">업데이트 날짜 : 2023-01-07 12:00</p>
       </div>
     </div>
 
