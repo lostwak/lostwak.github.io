@@ -188,7 +188,7 @@ const IndexPage = () => {
         <div className="container">
           <MiddleBlock>
             <h3 className="start-txt">지금 플레이하기</h3>
-            <Link to="https://github.com/lostwak/lostwak.github.io/releases/download/v1.1.0/Lostwak-v1.1.0.zip" className="start-btn">다운로드</Link>
+            <Link to="https://github.com/lostwak/lostwak.github.io/releases/download/v1.1.0/Lostwak-v1.1.1.zip" className="start-btn">다운로드</Link>
           </MiddleBlock>
         </div>
       </div>
