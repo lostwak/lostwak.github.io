@@ -472,18 +472,38 @@ footer .footer-img {
 .record-list p {
   margin-bottom: 0px;
 }
+.record-menus {
+  display: flex;
+}
+.record-menus .btn-sorted {
+  margin-left: auto;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  border: 1px solid rgb(194 194 194);
+  border-radius: 0.25rem;
+}
 .bt-raid {
   border: none;
   background: none;
   font-size: 1.25rem;
-  margin: 1rem;
+  margin: 0.4rem;
+  color: black;
+  padding: 2px 6px;
 }
 .bt-raid.selected {
   font-weight: bold;
   color: #967852;
+  text-decoration: underline;
 }
 .raid-list-group {
   margin-top: 1rem;
+}
+
+.btn-random-refresh {
+  background: #2f2926 !important;
+  border: 1px solid #2f2926 !important;
+  text-align: center !important;
+  color: white !important;
 }
 
 .line-through {
@@ -585,6 +605,12 @@ footer .footer-img {
   }
   .review-block {
     margin-top: 3rem;
+  }
+  .bt-raid {
+    font-size: 1rem;
+  }
+  .btn-sorted {
+    padding: 0.25rem;
   }
 }
 @media (max-width: 576px) {

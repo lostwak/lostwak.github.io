@@ -21,6 +21,7 @@ import hea_2 from '../images/hea_2.png'
 
 
 const IndexPage = () => {
+  const [refresh, setRefresh] = React.useState(Math.random());
   const [jobIdx, setJobIdx] = React.useState(0);
   const jobList = [
     {
@@ -112,11 +113,11 @@ const IndexPage = () => {
             <h3>공지사항</h3>
             <p></p>
             <p>서버 운영을 아래와 같이 운영합니다.</p>
-            <p>상황에 따라 변경 될 수 있으며 운영하지 않을 수도 있습니다.</p>
             <p className="">- 1/5(목) 21:00 ~ 1/6(금) 4:00 (완료)</p>
             <p>- 1/6(금) 14:00 ~ 1/7(토) 4:00 (완료)</p> 
             <p>- 1/7(토) 14:00 ~ 1/7(토) 19:00 (완료)</p>
-            <p>- 1/7(토) 20:30 ~ 1/8(일) 24:00</p>
+            <p>- 1/7(토) 20:30 ~ 1/8(일) 24:00 (완료)</p>
+            <p>이용해주시고 즐겨주신 모든 플레이어 분들 감사드립니다 !</p>
           </div>
         </YoutubeBlock>
       </div>
@@ -138,7 +139,8 @@ const IndexPage = () => {
               <h3>리뷰</h3>
               <ul className="list-group">
                 { 
-                  data.allReviesJson.edges.sort(() => 0.5 - Math.random()).slice(0, 5).map((e, idx) => {
+                  refresh &&
+                  data.allReviesJson.edges.sort(() => Math.random() - 0.5).slice(0, 5).map((e, idx) => {
                     return (
                       <Link to={e.node.post_link}>
                         <li className="list-group-item" key={idx}>{ e.node.post_name }</li>
@@ -146,6 +148,7 @@ const IndexPage = () => {
                     );
                   })
                 }
+                <button className="btn-random-refresh" onClick={() => {setRefresh(Math.random())}}>랜덤 새로고침</button>
               </ul>
             </div>
           </SecondaryBlock>

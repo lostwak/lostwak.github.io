@@ -93,7 +93,7 @@ const UpdatePage = () => (
           quality={95}
           formats={["auto", "webp", "avif"]}
           alt=""
-          style={{ width: `100%`, height: `100%`,  marginBottom: `var(--space-3)`, filter: `brightness(110%)` }}
+          style={{ width: `100%`, height: `100%`,  marginBottom: `var(--space-3)`, filter: `brightness(90%)` }}
         >
         </StaticImage>
       </div>

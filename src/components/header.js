@@ -60,7 +60,7 @@ const Header = () => {
       </Link>
 
       <Link
-        to="/record"
+        to="/record/0"
         className="menu">
         기록관
       </Link>

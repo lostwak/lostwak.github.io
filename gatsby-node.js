@@ -7,12 +7,30 @@
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
+
+const pages = [
+  { raidIdx: 0 },
+  { raidIdx: 1 },
+  { raidIdx: 2 },
+  { raidIdx: 3 },
+];
+
 exports.createPages = async ({ actions }) => {
   const { createPage } = actions
   createPage({
-    path: "/using-dsg",
-    component: require.resolve("./src/templates/using-dsg.js"),
+    path: "/record/4",
+    component: require.resolve("./src/pages/record.js"),
     context: {},
     defer: true,
   })
+
+  pages.forEach(page => {
+    createPage({
+        path: '/record/' + page.raidIdx.toString(),
+        context: {
+          raidIdx: page.raidIdx
+        },
+        component: require.resolve("./src/pages/record.js"),
+    });
+});
 }
