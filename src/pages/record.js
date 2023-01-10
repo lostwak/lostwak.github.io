@@ -51,7 +51,7 @@ const RecordPage = ({data, pageContext }) => {
       <div
         className="game-bg-wrapper sub-wrapper">
         <StaticImage
-          src="../images/update_thumbnail.png"
+          src="../images/record_thumbnail.png"
           loading="eager"
           quality={95}
           formats={["auto", "webp", "avif"]}
@@ -77,7 +77,7 @@ const RecordPage = ({data, pageContext }) => {
               <svg fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style={{width:"24px"}}>
                 <path strokeLinecap="round" stroke-linejoin="round" d="M3 4.5h14.25M3 9h9.75M3 13.5h9.75m4.5-4.5v12m0 0l-3.75-3.75M17.25 21L21 17.25"></path>
               </svg>
-              <span>{ isSortClearedTime ? " 최초토벌순 " : " 소요시간순 " }</span>
+              <span>{ isSortClearedTime ? " 소요시간순 " : " 최초토벌순 " }</span>
             </button>
           </div>
           <br/>
